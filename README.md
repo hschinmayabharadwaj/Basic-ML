@@ -1,8 +1,11 @@
-TO RUN STOCK APP FILE 
+- ### **TO RUN STOCK APP FILE**
+```bash
 pip install streamlit
-and to run use:  streamlit run stock_app.py
-
-
-TO RUN PREDICT STOCK FILE
-pip install matplotlib
-and to run use: python prdict_stock.py
+streamlit run stock_app.py
+```
+  
+- ### **TO RUN PREDICT STOCK FILE**
+```bash
+pip install matploatlib
+python run prdict_stock.py
+```
