@@ -5,4 +5,4 @@ and to run use:  streamlit run stock_app.py
 
 TO RUN PREDICT STOCK FILE
 pip install matplotlib
-and to run use: python prdict_stock.py
+and to run use: python predict_stock.py
