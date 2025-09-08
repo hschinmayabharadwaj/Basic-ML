@@ -9,4 +9,8 @@ and to run use:
 
 TO RUN PREDICT STOCK FILE
 pip install matplotlib
-and to run use: python predict_stock.py
+and to run use: 
+ ```bash
+   python predict_stock.py
+   ```
+
