@@ -44,6 +44,9 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, shuffle=False
 )
 
+print("Training features columns:", X_train.columns.tolist())
+
+
 # 5. Train the model
 model = lgb.LGBMRegressor(n_estimators=100, random_state=42)
 model.fit(X_train, y_train)
