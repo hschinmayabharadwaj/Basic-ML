@@ -7,5 +7,5 @@ streamlit run stock_app.py
 - ### **TO RUN PREDICT STOCK FILE**
 ```bash
 pip install matplotlib
-python prdict_stock.py
+python predict_stock.py
 ```
