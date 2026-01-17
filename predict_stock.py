@@ -1,5 +1,3 @@
-# predict_stock.py
-
 import yfinance as yf
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
