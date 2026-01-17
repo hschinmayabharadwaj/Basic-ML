@@ -6,6 +6,6 @@ streamlit run stock_app.py
   
 - ### **TO RUN PREDICT STOCK FILE**
 ```bash
-pip install matploatlib
+pip install matplotlib
 python run prdict_stock.py
 ```
